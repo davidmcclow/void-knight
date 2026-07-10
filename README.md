@@ -1,13 +1,13 @@
-# Void Mage
+# Void Knight
 
 *A martial anti-caster homebrew class for Pathfinder 1e, with a full conversion to D&D 5e.*
 
-The Void Mage is an aggressive spellbreaker — a warrior who doesn't sling spells, but devours them. Powered by a **Void Pool (VP)** resource system, the class counters, dispels, and unravels enemy magic at melee range, projecting a **Null Zone** that suppresses casters and rewards fearless positioning. Where most anti-magic options in d20 systems are passive or situational, the Void Mage makes hunting spellcasters an active, resource-driven combat loop: dispel to fuel your pool, spend your pool to break their magic.
+The Void Knight is an aggressive spellbreaker — a warrior who doesn't sling spells, but devours them. Powered by a **Void Pool (VP)** resource system, the class counters, dispels, and unravels enemy magic at melee range, projecting a **Null Zone** that suppresses casters and rewards fearless positioning. Where most anti-magic options in d20 systems are passive or situational, the Void Knight makes hunting spellcasters an active, resource-driven combat loop: dispel to fuel your pool, spend your pool to break their magic.
 
 ## What's Inside
 
-- 📄 **[Void Mage Master Edition v4.1 (Pathfinder 1e)](void_mage_master_v4_1_final.pdf)** — full 20-level progression, class abilities, and three archetypes
-- 📄 **[D&D 5e Conversion v5.0](Void_Mage_5e_Conversion.md)** — complete adaptation to 5e's bounded accuracy and action economy, expanded to six specializations
+- 📄 **[Void Knight Master Edition v4.1 (Pathfinder 1e)](void_knight_master_v4_1_final.pdf)** — full 20-level progression, class abilities, and three archetypes
+- 📄 **[D&D 5e Conversion v5.0](Void_Knught_5e_Conversion.md)** — complete adaptation to 5e's bounded accuracy and action economy, expanded to six specializations
 
 ### Archetypes (Pathfinder 1e)
 
@@ -50,7 +50,7 @@ Each specialization trades away part of the base kit for focused power, keeping 
 
 ## Origin
 
-The Void Mage began life in a long-running tabletop campaign and grew into a fully documented, versioned class design — playtested, iterated, and rebalanced across editions.
+The Void Knight began life in a long-running tabletop campaign and grew into a fully documented, versioned class design — playtested, iterated, and rebalanced across editions.
 
 ---
 
